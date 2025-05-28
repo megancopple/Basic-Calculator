@@ -10,6 +10,9 @@ This is a simple calculator built with C# and Windows Forms. The calculator allo
 - **Calculate** button to perform the operation
 - **Clear** button to reset all fields
 - **Exit** button to close the application
+- Supports basic arithmetic operations
+- Clears inputs
+- Exits application
 
 ## User Interface Elements
 
