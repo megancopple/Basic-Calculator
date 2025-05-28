@@ -1,5 +1,5 @@
 # Basic Calculator - Windows Forms Application
-
+ # Updated file or app name to Basic Calc
 This is a simple calculator built with C# and Windows Forms. The calculator allows the user to perform basic arithmetic operations using a graphical interface.
 
 ## Features
